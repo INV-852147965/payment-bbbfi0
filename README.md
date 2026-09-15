@@ -1,8 +1,10 @@
 15-Sep-2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: evysmom@aol.com, csivard706@yahoo.com
-At: 2026-09-15 23:14:37
-Id: scMbBnsX
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: pdunn519@comcast.net, dbert14@yahoo.com
+At: 2026-09-15 23:15:17
+Id: HYP3Js4d
